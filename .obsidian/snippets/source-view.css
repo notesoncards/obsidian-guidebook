@@ -1,0 +1,18 @@
+.markdown-source-view:not(.is-live-preview) { 
+  font-family: 'consolas', monospace !important;
+  font-size: .90em;
+}
+
+
+
+/*- lists -----------------------------------------------*/
+/* indents within lists */
+.markdown-source-view:not(.is-live-preview) .cm-line.HyperMD-list-line {
+  tab-size: var(--list-indent-s);
+}
+
+/*- all headings: font weight -*/
+.markdown-source-view:not(.is-live-preview) .HyperMD-header {
+  font-weight: bold; 
+}
+

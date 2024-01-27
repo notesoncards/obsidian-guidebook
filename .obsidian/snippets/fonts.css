@@ -1,0 +1,4 @@
+.markdown-source-view:not(.is-live-preview) { 
+    font-family: 'consolas', monospace !important;
+    color: blue;
+}

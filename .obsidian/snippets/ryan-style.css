@@ -1,0 +1,134 @@
+
+.CodeMirror-lines {
+    background-color: #ECFFDC;
+}
+.markdown-preview-sizer.markdown-preview-section {
+    background-color: #ECFFDC;
+}
+   
+.markdown-preview-view.is-readable-line-width.allow-fold-headings.allow-fold-lists {
+    background-color: #ECFFDC;
+}
+
+.markdown-source-view.mod-cm5.is-readable-line-width {
+    background-color: #ECFFDC;
+}
+
+.popover.hover-popover {
+    background-color: white !important;
+}
+
+body .popover.hover-editor .view-content {
+    background-color: white !important;
+}
+
+/* Heading Styles */
+.cm-header.cm-header-1, .cm-header.cm-header-1, .HyperMD-header-1, .markdown-preview-view h1 {
+    color: #000000 !important;
+    font-weight: bold;
+    letter-spacing: -1px;
+}
+
+.cm-header.cm-header-2, .cm-header.cm-header-2, .HyperMD-header-2, .markdown-preview-view h2 {
+    color: #696969 !important;
+    font-weight: bold;
+}
+
+.cm-header.cm-header-3, .HyperMD-header-3, .markdown-preview-view h3 {
+    color: #4682B4 !important;
+    font-weight: bold;
+}
+
+.cm-header.cm-header-4, .HyperMD-header-4, .markdown-preview-view h4 {
+    color: #8B0000 !important;
+    font-weight: bold;
+}
+/* Link Styles */
+
+ /* unvisited link */
+ a:link {
+    color: #4682B4;
+    font-weight: bold;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #4682B4;
+    font-weight: bold;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #4682B4;
+    font-weight: bold;
+  }
+  
+  /* selected link */
+  a:active {
+    color: #4682B4;
+    font-weight: bold;
+  } 
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: auto;
+	max-width: 100%;
+	border-top: 2.27px solid black;
+	border-bottom: 2.27px solid black;
+	overflow-x: auto; 
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+tr {
+    background-color: white !important;
+}
+
+th {
+	border: 1 none !important;
+	text-align: center !important;
+	padding: 0.5rem;
+	line-height: 1.1;
+	border-bottom: 1.36px solid black !important;
+}
+
+td {
+	border: 1 none !important;
+	text-align: left;
+	padding: 0.5rem;
+	line-height: 1.1;
+}
+
+/* Latex table */
+/* ------------------------------------*/
+.academia table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: auto;
+	max-width: 100%;
+	border-top: 2.27px solid black;
+	border-bottom: 2.27px solid black;
+	overflow-x: auto; 
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.academia th,
+.academia td {
+	border: 0 none !important;
+	text-align: left;
+	padding: 0.5rem;
+	line-height: 1.1;
+}
+.academia table > tbody > tr:first-child > td,
+.academia table > tbody > tr:first-child > th {
+	border-top: 1.36px solid black !important;
+}
+.academia table > tbody > tr:last-child > td,
+.academia table > tbody > tr:last-child > th {
+	border-bottom: 1.36px solid black !important;
+}
+.academia thead th {
+    background-color: white !important;
+    font-weight: 700;
+}
+.academia tr:nth-child(even) { background-color: #dddddd ; }
+.academia tr:nth-child(odd) { background-color: #ffffff !important; }
+/* ------------------------------------*/

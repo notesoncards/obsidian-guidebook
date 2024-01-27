@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "headerless-transclusion",
+    "obsidian",
+    "ryan-style",
+    "source-view"
+  ]
+}
