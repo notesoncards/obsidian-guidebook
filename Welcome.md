@@ -8,3 +8,7 @@
 
 ## 02.Setting Up Obsidian
 
+
+---%%%---
+
+**Last Modified:** `$= dv.current().file.mtime`
