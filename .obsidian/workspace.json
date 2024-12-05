@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Quick Start Guide.md",
-                "mode": "source",
+                "file": "02.Setting Up/02.02.Plugins/02.02.02.00.community-plugins.md",
+                "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "02.02.02.00.community-plugins"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Quick Start Guide.md",
+                "file": "02.Setting Up/02.02.Plugins/02.02.02.00.community-plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 02.02.02.00.community-plugins"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Quick Start Guide.md",
+                "file": "02.Setting Up/02.02.Plugins/02.02.02.00.community-plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 02.02.02.00.community-plugins"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Quick Start Guide.md"
-              }
+                "file": "02.Setting Up/02.02.Plugins/02.02.02.00.community-plugins.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 02.02.02.00.community-plugins"
             }
           }
         ]
@@ -150,21 +166,22 @@
   },
   "active": "53bf48cfa4475d9c",
   "lastOpenFiles": [
-    "Obsidian Quick Start Guide.docx",
+    "02.Setting Up/02.02.Plugins/02.02.02.01.Templater.md",
+    "02.Setting Up/02.02.Plugins/02.02.02.00.community-plugins.md",
+    "02.Setting Up/02.02.Plugins/02.02.02.02.Dataview.md",
+    "02.Setting Up/02.02.Plugins/02.02.03.my-plugins.md",
+    "00.Preface/my-journey-to-obsidian.md",
+    "01.Introduction/zettelkasten-thing.md",
+    "Welcome.md",
     "Obsidian Quick Start Guide.md",
+    "Obsidian Quick Start Guide.docx",
     "02.Setting Up/02.01.Settings/02.01.00.Obsidian Settings.md",
     "00.NEW-NOTES/obsidian-sync.md",
     "00.NEW-NOTES/footnotes.md",
-    "02.Setting Up/02.02.Plugins/02.02.02.01.Dataview.md",
-    "Welcome.md",
     "dailylog-2024-01-26.md",
-    "02.Setting Up/02.02.Plugins/02.02.02.00.community-plugins.md",
     "02.Setting Up/02.02.Plugins/02.02.01.core-plugins.md",
     "02.Setting Up/02.01.Settings/02.01.02.my-settings.md",
     "02.Setting Up/02.01.Settings/02.01.01.Default Settings.md",
-    "01.Introduction/zettelkasten-thing.md",
-    "02.Setting Up/02.02.Plugins/02.02.03.my-plugins.md",
-    "00.Preface/my-journey-to-obsidian.md",
     "02.Setting Up/02.00.00.md",
     "02.Setting Up/02.03.Themes/minimal-theme.md",
     "00.NEW-NOTES",
